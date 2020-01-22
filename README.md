@@ -24,6 +24,7 @@ brew install boost
 ## Installation
 It is recommended to install the mesh package in a [virtual environment](https://virtualenv.pypa.io/en/stable/). This package has been tested with Python2.7 on Linux and OSX.
 ```bash
+pip install virtualenv
 make
 make install
 ```
